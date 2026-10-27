@@ -1,0 +1,7 @@
+kokoro>=0.9.4
+soundfile
+numpy
+pymupdf
+ebooklib
+beautifulsoup4
+customtkinter
